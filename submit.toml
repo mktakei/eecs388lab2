@@ -1,0 +1,11 @@
+[part-1]
+task-1 = ""
+
+[part-2]
+task-2 = ""
+task-3 = ""
+task-4.value = ""
+task-4.path = ""
+task-4.httponly = ""
+task-4.secure = ""
+task-4.samesite = ""
